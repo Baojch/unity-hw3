@@ -1,0 +1,18 @@
+<Localization>
+  <Entry>
+    <Key>Title</Key>
+    <Value>快龙大冒险</Value>
+  </Entry>
+  <Entry>
+    <Key>Start</Key>
+    <Value>开始</Value>
+  </Entry>
+  <Entry>
+    <Key>Language</Key>
+    <Value>语言</Value>
+  </Entry>
+  <Entry>
+    <Key>Quit</Key>
+    <Value>退出</Value>
+  </Entry>
+</Localization>
